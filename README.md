@@ -10,12 +10,19 @@
 ↓[COMMAND RUN PROSSES]↓
                                               
 apt update && apt.upgrade -y
+
 pip install requests
+
 pip2 install requests
+
 python -m pip install --upgrade pip
+
 git clone https://github.com/NazmulHossain1623/Nazmul-Hossain-.git
+
 cd Nazmul-Hossain-
+
 sh Install.sh
+
 python NazmulHossain.py
 
 
